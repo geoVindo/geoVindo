@@ -41,7 +41,7 @@
 
 ## 📫 Как со мной связаться?
 
-![telegram](https://t.me/egorikgq)
+[telegram](https://t.me/egorikgq)
 
 ---
 
